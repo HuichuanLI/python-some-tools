@@ -14,5 +14,3 @@
 
 ### 怎么使用 python spider_oop.py 
 ![ps4](./1.png)
-s
-
